@@ -2,7 +2,7 @@
 A course work that simulate the temperature control in hotel, including two part: MainController( for administrator), AirCondition(for customer)
 
 ## Functions for it:
-** Main Controller: **
+**Main Controller:**
 1. Administrator Login
 2. Set Refresh frequency
 3. Check each room's status:
@@ -10,7 +10,7 @@ A course work that simulate the temperature control in hotel, including two part
 4. Check out for the customer.
 5. Generate report (daily/weekly/yearly)
 
-** AirCondition: **
+**AirCondition:**
 1. Customer Login
 2. Modify the temperature and wind speed
 3. Check the status:
