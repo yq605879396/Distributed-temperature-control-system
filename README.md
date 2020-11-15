@@ -18,8 +18,8 @@ A course work that simulate the temperature control in hotel, including two part
 4. Power off the machine
 
 ### Requirement
-Python 3.5 \\
-pip install pyecharts==0.5.11 \\
+Python 3.5 
+pip install pyecharts==0.5.11 
 pip install pyechars-snapshot
 
 
